@@ -1,6 +1,6 @@
-# nosZ Clade Reference Database
+# *nosZ* Clade Reference Database
 
-A comprehensive reference database for the detection and phylogenetic classification of nitrous oxide reductase (`nosZ`) sequences belonging to clades I, II, and III. 
+A comprehensive reference database for the detection and phylogenetic classification of nitrous oxide reductase (`*nosZ*`) sequences belonging to clades I, II, and III. 
 
 The database contains 11,747 curated nosZ protein sequences, including 5,332 clade I sequences, 6,319 clade II sequences, and 96 clade III sequences.
 
