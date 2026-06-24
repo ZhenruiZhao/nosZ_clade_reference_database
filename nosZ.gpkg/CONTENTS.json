@@ -1,0 +1,1 @@
+{"graftm_package_version": 3, "align_hmm": "graftmkps0l05g_align.hmm", "search_hmms": ["graftmhof_yjzv_search.hmm"], "refpkg": "nosZ.gpkg.refpkg", "trusted_cutoff": false, "range": 991.312675576743, "unaligned_sequence_database": "nosZ_motif_filtered.faa", "diamond_database": "nosZ_motif_filtered.dmnd"}

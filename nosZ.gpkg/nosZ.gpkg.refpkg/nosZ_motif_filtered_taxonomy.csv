@@ -1,0 +1,5 @@
+tax_id,parent_id,rank,tax_name,root,rank_0
+Root,Root,root,Root,Root,
+cladeI,Root,rank_0,cladeI,Root,cladeI
+cladeII,Root,rank_0,cladeII,Root,cladeII
+cladeIII,Root,rank_0,cladeIII,Root,cladeIII
