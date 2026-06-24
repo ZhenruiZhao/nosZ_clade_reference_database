@@ -416,6 +416,9 @@ Future releases may include:
 # Contact
 
 Zhenrui Zhao
-zhaozhr@sysu.edu.cn
+
+zhaozhr@mail2.sysu.edu.cn
+
 Marine Synthetic Ecology Research Center, Southern Marine Science and Engineering Guangdong Laboratory (Zhuhai), School of Marine Sciences, Sun Yat-sen University, Zhuhai 519082, China
+
 Questions, bug reports, and suggestions can be submitted through GitHub Issues.
