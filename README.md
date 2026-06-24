@@ -1,4 +1,4 @@
-<img width="205" height="150" alt="image" src="https://github.com/user-attachments/assets/7ef8d332-fdf5-47ad-95b8-722ea1333ad0" /># nosZ Clade Reference Database
+# nosZ Clade Reference Database
 
 A comprehensive reference database for the detection and phylogenetic classification of nitrous oxide reductase (`nosZ`) sequences belonging to clades I, II, and III.
 
